@@ -1,0 +1,16 @@
+C:\Users\Camil\Documents\trabajosJavier\ordenamiento\bin\Debug\net5.0\ordenamiento.exe
+C:\Users\Camil\Documents\trabajosJavier\ordenamiento\bin\Debug\net5.0\ordenamiento.deps.json
+C:\Users\Camil\Documents\trabajosJavier\ordenamiento\bin\Debug\net5.0\ordenamiento.runtimeconfig.json
+C:\Users\Camil\Documents\trabajosJavier\ordenamiento\bin\Debug\net5.0\ordenamiento.runtimeconfig.dev.json
+C:\Users\Camil\Documents\trabajosJavier\ordenamiento\bin\Debug\net5.0\ordenamiento.dll
+C:\Users\Camil\Documents\trabajosJavier\ordenamiento\bin\Debug\net5.0\ref\ordenamiento.dll
+C:\Users\Camil\Documents\trabajosJavier\ordenamiento\bin\Debug\net5.0\ordenamiento.pdb
+C:\Users\Camil\Documents\trabajosJavier\ordenamiento\obj\Debug\net5.0\ordenamiento.csproj.AssemblyReference.cache
+C:\Users\Camil\Documents\trabajosJavier\ordenamiento\obj\Debug\net5.0\ordenamiento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camil\Documents\trabajosJavier\ordenamiento\obj\Debug\net5.0\ordenamiento.AssemblyInfoInputs.cache
+C:\Users\Camil\Documents\trabajosJavier\ordenamiento\obj\Debug\net5.0\ordenamiento.AssemblyInfo.cs
+C:\Users\Camil\Documents\trabajosJavier\ordenamiento\obj\Debug\net5.0\ordenamiento.csproj.CoreCompileInputs.cache
+C:\Users\Camil\Documents\trabajosJavier\ordenamiento\obj\Debug\net5.0\ordenamiento.dll
+C:\Users\Camil\Documents\trabajosJavier\ordenamiento\obj\Debug\net5.0\ref\ordenamiento.dll
+C:\Users\Camil\Documents\trabajosJavier\ordenamiento\obj\Debug\net5.0\ordenamiento.pdb
+C:\Users\Camil\Documents\trabajosJavier\ordenamiento\obj\Debug\net5.0\ordenamiento.genruntimeconfig.cache
