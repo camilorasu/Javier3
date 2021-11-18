@@ -8,7 +8,7 @@ namespace ordenamiento
         {
           Ordenamiento ordenamiento= new Ordenamiento();   
           ordenamiento.pedirNumeros();
-          ordenamiento.burbuja();
+          ordenamiento.mostrar();
         }
     }
 }
